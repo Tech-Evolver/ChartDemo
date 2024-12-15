@@ -1,0 +1,161 @@
+{
+    "status": "success",
+    "message": "Heart rate data retrieved successfully",
+    "data": [
+        {
+            "id": 1,
+            "date": "2024-12-01",
+            "heart_rate": 52
+        },
+        {
+            "id": 2,
+            "date": "2024-12-02",
+            "heart_rate": 86
+        },
+        {
+            "id": 3,
+            "date": "2024-12-03",
+            "heart_rate": 40
+        },
+        {
+            "id": 4,
+            "date": "2024-12-04",
+            "heart_rate": 92
+        },
+        {
+            "id": 5,
+            "date": "2024-12-05",
+            "heart_rate": 108
+        },
+        {
+            "id": 6,
+            "date": "2024-12-06",
+            "heart_rate": 108
+        },
+        {
+            "id": 7,
+            "date": "2024-12-07",
+            "heart_rate": 78
+        },
+        {
+            "id": 8,
+            "date": "2024-12-08",
+            "heart_rate": 119
+        },
+        {
+            "id": 9,
+            "date": "2024-12-09",
+            "heart_rate": 118
+        },
+        {
+            "id": 10,
+            "date": "2024-12-10",
+            "heart_rate": 75
+        },
+        {
+            "id": 11,
+            "date": "2024-12-11",
+            "heart_rate": 47
+        },
+        {
+            "id": 12,
+            "date": "2024-12-12",
+            "heart_rate": 102
+        },
+        {
+            "id": 13,
+            "date": "2024-12-13",
+            "heart_rate": 83
+        },
+        {
+            "id": 14,
+            "date": "2024-12-14",
+            "heart_rate": 117
+        },
+        {
+            "id": 15,
+            "date": "2024-12-15",
+            "heart_rate": 101
+        },
+        {
+            "id": 16,
+            "date": "2024-12-16",
+            "heart_rate": 52
+        },
+        {
+            "id": 17,
+            "date": "2024-12-17",
+            "heart_rate": 51
+        },
+        {
+            "id": 18,
+            "date": "2024-12-18",
+            "heart_rate": 70
+        },
+        {
+            "id": 19,
+            "date": "2024-12-19",
+            "heart_rate": 53
+        },
+        {
+            "id": 20,
+            "date": "2024-12-20",
+            "heart_rate": 41
+        },
+        {
+            "id": 21,
+            "date": "2024-12-21",
+            "heart_rate": 65
+        },
+        {
+            "id": 22,
+            "date": "2024-12-22",
+            "heart_rate": 47
+        },
+        {
+            "id": 23,
+            "date": "2024-12-23",
+            "heart_rate": 76
+        },
+        {
+            "id": 24,
+            "date": "2024-12-24",
+            "heart_rate": 86
+        },
+        {
+            "id": 25,
+            "date": "2024-12-25",
+            "heart_rate": 57
+        },
+        {
+            "id": 26,
+            "date": "2024-12-26",
+            "heart_rate": 56
+        },
+        {
+            "id": 27,
+            "date": "2024-12-27",
+            "heart_rate": 76
+        },
+        {
+            "id": 28,
+            "date": "2024-12-28",
+            "heart_rate": 65
+        },
+        {
+            "id": 29,
+            "date": "2024-12-29",
+            "heart_rate": 41
+        },
+        {
+            "id": 30,
+            "date": "2024-12-30",
+            "heart_rate": 72
+        },
+        {
+            "id": 31,
+            "date": "2024-12-31",
+            "heart_rate": 58
+        }
+    ]
+}
